@@ -2,7 +2,7 @@
 
 The scraper pulls data from https://www.worldometers.info/coronavirus/country/<country> into a jupyter notebook. From there you can do basic plots and analysis using your favorite stats tools. 
 
-First install all packages. From cloned directory, run the following commands: 
+From cloned directory, run the following commands to install required packages: 
 
 ```console
 pipenv install --python=3.6
