@@ -1,6 +1,6 @@
 # Corona Virus Scrape Tool
 
-The scraper pulls data from https://www.worldometers.info/coronavirus/country into a jupyter notebook. From there you can do basic plots and analysis using your favorite stats tools. 
+The scraper pulls data from https://www.worldometers.info/coronavirus into a jupyter notebook. From there you can do basic plots and analysis using your favorite stats tools. 
 
 From cloned directory, run the following commands to install required packages: 
 
